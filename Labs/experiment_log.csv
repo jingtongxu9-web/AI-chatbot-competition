@@ -1,0 +1,3 @@
+note,chunk,overlap,k,retrieved,correct,slowest
+baseline,800,100,5,9,0,2.7
+baseline,800,100,5,9,0,1.7
