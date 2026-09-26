@@ -1,0 +1,137 @@
+{
+  "sites": [
+    {
+      "site": "https://innowings.engg.hku.hk/",
+      "requested": 729,
+      "succeeded": 717,
+      "failed": [
+        {
+          "url": "https://innowings.engg.hku.hk/innoshow3",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/innoshow3"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/innowing2/research-highlight",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/innowing2/research-highlight"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/meltang@hku.hk",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/meltang@hku.hk"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/ender",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/ender"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/ultimaker",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/ultimaker"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/podcast",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/podcast"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/social-and-brainstorming-area",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/social-and-brainstorming-area"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/tutor/24-25/recruit_tutor_2024",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/tutor/24-25/recruit_tutor_2024"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/karlos16@hku.hk",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/karlos16@hku.hk"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/wastewater-covid19",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wastewater-covid19"
+        },
+        {
+          "url": "https://innowings.engg.hku.hk/legalinformation/(opens%20in%20a%20new%20tab)",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/legalinformation/(opens%20in%20a%20new%20tab"
+        }
+      ],
+      "robots_blocked": 0,
+      "sitemap_errors": [],
+      "discovered": 13553,
+      "duplicate_urls": 13408,
+      "non_html": 1,
+      "skipped_empty": 3,
+      "hit_page_limit": false,
+      "sitemap_urls": 583,
+      "remaining_queue": 0
+    },
+    {
+      "site": "https://innoacademy.engg.hku.hk/",
+      "requested": 795,
+      "succeeded": 780,
+      "failed": [
+        {
+          "url": "https://innoacademy.engg.hku.hk/goodjobvoting",
+          "error": "redirected off-site or to a non-page"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/innoshow-quiz",
+          "error": "redirected off-site or to a non-page"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/meta",
+          "error": "redirected off-site or to a non-page"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/robomaster2019",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/robomaster2019"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/projectid44",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/projectid44"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/innospark",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/innospark"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/hkur2021",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/hkur2021"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk//icra2019-robomaster-aichallenge",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/icra2019-robomaster-aichallenge"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/construction_workers7",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/construction_workers7"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/home-2/home/photogallery",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/home-2/home/photogallery"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/logo",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/logo"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/projectid41",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/projectid41"
+        },
+        {
+          "url": "https://innoacademy.engg.hku.hk/projectid34",
+          "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/projectid34"
+        }
+      ],
+      "robots_blocked": 0,
+      "sitemap_errors": [],
+      "discovered": 8477,
+      "duplicate_urls": 8350,
+      "non_html": 2,
+      "skipped_empty": 1,
+      "hit_page_limit": false,
+      "sitemap_urls": 667,
+      "remaining_queue": 0
+    }
+  ],
+  "pages_written": 1466,
+  "images_written": 19666,
+  "max_pages_per_site": 800,
+  "request_delay_seconds": 0.2,
+  "user_agent": "InnoWingChatbotResearch/1.0 (educational crawl)"
+}

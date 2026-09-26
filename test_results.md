@@ -3,6 +3,9 @@
 - 测试日期：2026-09-26
 - 测试方式：本地运行 `python main.py "<question>"`
 - 索引构建：6,458 chunks，来源于 1,466 个页面
+- Chroma 版本：`1.5.9`（与 `submission_repo/requirements.txt` 固定版本一致）
+- Chat / Embedding deployment：`gpt-4o-mini` / `text-embedding-3-small`
+- 文本切块参数：chunk size 800，overlap 100
 - 记录来源：用户提供的终端截图
 - 评分说明：此处仅按输出与 `dev_set.json` 参考答案进行人工初步比对；未运行官方评分器，不能视为正式分数。
 
