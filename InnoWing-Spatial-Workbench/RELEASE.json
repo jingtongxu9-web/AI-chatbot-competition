@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "date": "2026-10-12",
+  "platform": "Windows 64-bit portable; Python source is cross-platform",
+  "counts": {
+    "photos": 214,
+    "annotations": 0,
+    "candidates": 214,
+    "facts": 0,
+    "entities": 0
+  },
+  "nominal_axis_extent_m": [
+    46.56,
+    25.56
+  ],
+  "coordinate_origin": "DA/D6",
+  "dimension_unit_status": "accepted_mm_pending_verification",
+  "map_region_count": 61,
+  "photo_source_commit": "684cdfdea99c89d464137391450fd844a8b7dcd2",
+  "ocr_status": "214 successful whole-image candidates, unverified",
+  "vision_live_validation": "not_run_no_key_configured",
+  "offline_tests": "18 passed",
+  "browser_workflow": "passed isolated database; desktop and mobile",
+  "private_credentials_included": false,
+  "existing_competition_repository_modified": false
+}
