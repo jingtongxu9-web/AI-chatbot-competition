@@ -1,0 +1,5127 @@
+{
+  "revision": "official-names-and-metric-v1",
+  "coordinate_system": "official image pixels, origin at upper-left, x right, y down",
+  "trace_note": "Official plan pixel geometry preserved; nominal metre coordinates derived from official axis dimension chains with user-accepted mm interpretation pending unit/site verification. All polygon boundaries are manually traced and require review. Official 2023 event names are separately recorded; no folder-to-room identity is inferred.",
+  "floors": [
+    {
+      "id": "GF",
+      "label": "G/F",
+      "width": 1071,
+      "height": 803,
+      "image": "gf-official.png",
+      "source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+      "footprint": [
+        [
+          25,
+          136
+        ],
+        [
+          903,
+          136
+        ],
+        [
+          903,
+          611
+        ],
+        [
+          41,
+          611
+        ],
+        [
+          41,
+          347
+        ],
+        [
+          25,
+          347
+        ]
+      ],
+      "regions": [
+        {
+          "id": "G01",
+          "label": "DIRECTOR OFFICE",
+          "type": "room",
+          "points": [
+            [
+              42,
+              147
+            ],
+            [
+              89,
+              147
+            ],
+            [
+              89,
+              224
+            ],
+            [
+              42,
+              231
+            ]
+          ],
+          "at": [
+            64,
+            185
+          ],
+          "legacy_review_label": "DIRECTOR OFFICE",
+          "official_name": "DIRECTOR OFFICE",
+          "official_plan_name": "DIRECTOR OFFICE",
+          "name": "DIRECTOR OFFICE",
+          "short_label": "DIRECTOR OFFICE",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "DIRECTOR OFFICE",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "DIRECTOR OFFICE"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.8841,
+              24.6101
+            ],
+            [
+              3.3712,
+              24.6101
+            ],
+            [
+              3.3712,
+              20.5362
+            ],
+            [
+              0.8841,
+              20.1658
+            ]
+          ],
+          "label_m": [
+            2.0482,
+            22.5996
+          ],
+          "centroid_m": [
+            2.1096,
+            22.4792
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G01",
+          "room_name": "DIRECTOR OFFICE",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G02",
+          "label": "LECTURER OFFICE",
+          "type": "room",
+          "points": [
+            [
+              42,
+              233
+            ],
+            [
+              89,
+              233
+            ],
+            [
+              89,
+              327
+            ],
+            [
+              42,
+              344
+            ]
+          ],
+          "at": [
+            64,
+            280
+          ],
+          "legacy_review_label": "LECTURER OFFICE",
+          "official_name": "LECTURER OFFICE",
+          "official_plan_name": "LECTURER OFFICE",
+          "name": "LECTURER OFFICE",
+          "short_label": "LECTURER OFFICE",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "LECTURER OFFICE",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LECTURER OFFICE"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.8841,
+              20.06
+            ],
+            [
+              3.3712,
+              20.06
+            ],
+            [
+              3.3712,
+              15.0867
+            ],
+            [
+              0.8841,
+              14.1873
+            ]
+          ],
+          "label_m": [
+            2.0482,
+            17.5734
+          ],
+          "centroid_m": [
+            2.0932,
+            17.3423
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G02",
+          "room_name": "LECTURER OFFICE",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G03",
+          "label": "MEETING ROOM",
+          "type": "room",
+          "points": [
+            [
+              94,
+              150
+            ],
+            [
+              157,
+              150
+            ],
+            [
+              157,
+              199
+            ],
+            [
+              94,
+              199
+            ]
+          ],
+          "at": [
+            125,
+            175
+          ],
+          "legacy_review_label": "MEETING ROOM",
+          "official_name": "MEETING ROOM",
+          "official_plan_name": "CONFERENCE ROOM 1",
+          "name": "MEETING ROOM",
+          "short_label": "MEETING ROOM",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "MEETING ROOM",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MEETING ROOM",
+            "CONFERENCE ROOM 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              3.6358,
+              24.4513
+            ],
+            [
+              6.9695,
+              24.4513
+            ],
+            [
+              6.9695,
+              21.8589
+            ],
+            [
+              3.6358,
+              21.8589
+            ]
+          ],
+          "label_m": [
+            5.2762,
+            23.1287
+          ],
+          "centroid_m": [
+            5.3026,
+            23.1551
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G03",
+          "room_name": "MEETING ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G04",
+          "label": "PANTRY",
+          "type": "room",
+          "points": [
+            [
+              160,
+              147
+            ],
+            [
+              191,
+              147
+            ],
+            [
+              191,
+              199
+            ],
+            [
+              160,
+              199
+            ]
+          ],
+          "at": [
+            176,
+            172
+          ],
+          "legacy_review_label": "PANTRY",
+          "official_name": "PANTRY",
+          "official_plan_name": "PANTRY",
+          "name": "PANTRY",
+          "short_label": "PANTRY",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "PANTRY",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "PANTRY"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              7.1283,
+              24.6101
+            ],
+            [
+              8.7687,
+              24.6101
+            ],
+            [
+              8.7687,
+              21.8589
+            ],
+            [
+              7.1283,
+              21.8589
+            ]
+          ],
+          "label_m": [
+            7.9749,
+            23.2874
+          ],
+          "centroid_m": [
+            7.9485,
+            23.2345
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G04",
+          "room_name": "PANTRY",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G05",
+          "label": "ADMINISTRATION OFFICE",
+          "type": "room",
+          "points": [
+            [
+              94,
+              205
+            ],
+            [
+              193,
+              205
+            ],
+            [
+              202,
+              293
+            ],
+            [
+              94,
+              325
+            ]
+          ],
+          "at": [
+            148,
+            254
+          ],
+          "legacy_review_label": "ADMINISTRATION OFFICE",
+          "official_name": "ADMINISTRATION OFFICE",
+          "official_plan_name": "ADMINISTRATION OFFICE",
+          "name": "ADMINISTRATION OFFICE",
+          "short_label": "ADMINISTRATION OFFICE",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "ADMINISTRATION OFFICE",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "ADMINISTRATION OFFICE"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              3.6358,
+              21.5414
+            ],
+            [
+              8.8745,
+              21.5414
+            ],
+            [
+              9.3508,
+              16.8856
+            ],
+            [
+              3.6358,
+              15.1925
+            ]
+          ],
+          "label_m": [
+            6.4933,
+            18.949
+          ],
+          "centroid_m": [
+            6.2427,
+            18.7239
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G05",
+          "room_name": "ADMINISTRATION OFFICE",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G06",
+          "label": "CONFERENCE ROOM",
+          "type": "room",
+          "points": [
+            [
+              278,
+              150
+            ],
+            [
+              336,
+              150
+            ],
+            [
+              374,
+              273
+            ],
+            [
+              319,
+              293
+            ]
+          ],
+          "at": [
+            324,
+            218
+          ],
+          "legacy_review_label": "CONFERENCE ROOM",
+          "official_name": "CONFERENCE ROOM",
+          "official_plan_name": "CONFERENCE ROOM 2",
+          "name": "CONFERENCE ROOM",
+          "short_label": "CONFERENCE ROOM",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "CONFERENCE ROOM",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "CONFERENCE ROOM",
+            "CONFERENCE ROOM 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              13.3725,
+              24.4513
+            ],
+            [
+              16.4417,
+              24.4513
+            ],
+            [
+              18.4525,
+              17.9437
+            ],
+            [
+              15.5421,
+              16.8856
+            ]
+          ],
+          "label_m": [
+            15.8067,
+            20.8536
+          ],
+          "centroid_m": [
+            15.9242,
+            20.8975
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G06",
+          "room_name": "CONFERENCE ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G07",
+          "label": "MAKERSPACE A",
+          "type": "open",
+          "points": [
+            [
+              343,
+              147
+            ],
+            [
+              687,
+              147
+            ],
+            [
+              687,
+              293
+            ],
+            [
+              381,
+              293
+            ]
+          ],
+          "at": [
+            517,
+            220
+          ],
+          "legacy_review_label": "MAKERSPACE A",
+          "official_name": "MAKERSPACE A",
+          "official_plan_name": "MULTI-PURPOSE AREA 1",
+          "name": "MAKERSPACE A",
+          "short_label": "MAKERSPACE A",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "MAKERSPACE A",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MAKERSPACE A",
+            "MULTI-PURPOSE AREA 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              16.8121,
+              24.6101
+            ],
+            [
+              35.0155,
+              24.6101
+            ],
+            [
+              35.0155,
+              16.8856
+            ],
+            [
+              18.8229,
+              16.8856
+            ]
+          ],
+          "label_m": [
+            26.0196,
+            20.7478
+          ],
+          "centroid_m": [
+            26.4067,
+            20.8231
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G07",
+          "room_name": "MAKERSPACE A",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G08",
+          "label": "Machine shop",
+          "type": "room",
+          "points": [
+            [
+              695,
+              152
+            ],
+            [
+              826,
+              152
+            ],
+            [
+              826,
+              290
+            ],
+            [
+              695,
+              290
+            ]
+          ],
+          "at": [
+            760,
+            224
+          ],
+          "legacy_review_label": "Machine shop",
+          "official_name": "Machine shop",
+          "official_plan_name": "WOOD & METAL WORKSHOP",
+          "name": "Machine shop",
+          "short_label": "Machine shop",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Machine shop",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Machine shop",
+            "WOOD & METAL WORKSHOP"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              35.4388,
+              24.3455
+            ],
+            [
+              42.371,
+              24.3455
+            ],
+            [
+              42.371,
+              17.0443
+            ],
+            [
+              35.4388,
+              17.0443
+            ]
+          ],
+          "label_m": [
+            38.8784,
+            20.5362
+          ],
+          "centroid_m": [
+            38.9049,
+            20.6949
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G08",
+          "room_name": "Machine shop",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G09",
+          "label": "SPRAY PAINT WORKSHOP",
+          "type": "room",
+          "points": [
+            [
+              831,
+              147
+            ],
+            [
+              894,
+              147
+            ],
+            [
+              894,
+              210
+            ],
+            [
+              831,
+              210
+            ]
+          ],
+          "at": [
+            862,
+            176
+          ],
+          "legacy_review_label": "SPRAY PAINT WORKSHOP",
+          "official_name": "SPRAY PAINT WORKSHOP",
+          "official_plan_name": "SPRAY PAINT WORKSHOP",
+          "name": "SPRAY PAINT WORKSHOP",
+          "short_label": "SPRAY PAINT WORKSHOP",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "SPRAY PAINT WORKSHOP"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              42.6355,
+              24.6101
+            ],
+            [
+              45.9693,
+              24.6101
+            ],
+            [
+              45.9693,
+              21.2769
+            ],
+            [
+              42.6355,
+              21.2769
+            ]
+          ],
+          "label_m": [
+            44.276,
+            23.0757
+          ],
+          "centroid_m": [
+            44.3024,
+            22.9435
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G09",
+          "room_name": "SPRAY PAINT WORKSHOP",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G10",
+          "label": "Thematic Workshop",
+          "type": "room",
+          "points": [
+            [
+              389,
+              321
+            ],
+            [
+              471,
+              321
+            ],
+            [
+              471,
+              435
+            ],
+            [
+              417,
+              435
+            ]
+          ],
+          "at": [
+            434,
+            377
+          ],
+          "legacy_review_label": "Thematic Workshop",
+          "official_name": "Thematic Workshop",
+          "official_plan_name": "FUNCTION ROOM 1",
+          "name": "Thematic Workshop",
+          "short_label": "Thematic Workshop",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Thematic Workshop",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Thematic Workshop",
+            "FUNCTION ROOM 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              19.2463,
+              15.4042
+            ],
+            [
+              23.5854,
+              15.4042
+            ],
+            [
+              23.5854,
+              9.3727
+            ],
+            [
+              20.7279,
+              9.3727
+            ]
+          ],
+          "label_m": [
+            21.6275,
+            12.4413
+          ],
+          "centroid_m": [
+            21.7608,
+            12.5954
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G10",
+          "room_name": "Thematic Workshop",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G11",
+          "label": "Laser cutting room",
+          "type": "room",
+          "points": [
+            [
+              475,
+              316
+            ],
+            [
+              621,
+              316
+            ],
+            [
+              621,
+              369
+            ],
+            [
+              475,
+              369
+            ]
+          ],
+          "at": [
+            549,
+            342
+          ],
+          "legacy_review_label": "Laser cutting room",
+          "official_name": "Laser cutting room",
+          "official_plan_name": "LASER CUTTING",
+          "name": "Laser cutting room",
+          "short_label": "Laser cutting room",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Laser cutting room",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Laser cutting room",
+            "LASER CUTTING"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.7971,
+              15.6687
+            ],
+            [
+              31.523,
+              15.6687
+            ],
+            [
+              31.523,
+              12.8646
+            ],
+            [
+              23.7971,
+              12.8646
+            ]
+          ],
+          "label_m": [
+            27.713,
+            14.2931
+          ],
+          "centroid_m": [
+            27.66,
+            14.2667
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G11",
+          "room_name": "Laser cutting room",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G12",
+          "label": "LAV. 2",
+          "type": "service",
+          "points": [
+            [
+              478,
+              378
+            ],
+            [
+              521,
+              378
+            ],
+            [
+              521,
+              429
+            ],
+            [
+              478,
+              429
+            ]
+          ],
+          "at": [
+            499,
+            407
+          ],
+          "legacy_review_label": "LAV. 2 / DISABLED TOILET",
+          "official_name": "LAV. 2",
+          "official_plan_name": "M. / F.",
+          "name": "LAV. 2",
+          "short_label": "LAV. 2",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "LAV. 2",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LAV. 2 / DISABLED TOILET",
+            "M. / F.",
+            "LAV. 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.9559,
+              12.3884
+            ],
+            [
+              26.2313,
+              12.3884
+            ],
+            [
+              26.2313,
+              9.6902
+            ],
+            [
+              23.9559,
+              9.6902
+            ]
+          ],
+          "label_m": [
+            25.0671,
+            10.8541
+          ],
+          "centroid_m": [
+            25.0936,
+            11.0393
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G12",
+          "room_name": "LAV. 2",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G13",
+          "label": "EX. M/E ROOM",
+          "type": "service",
+          "points": [
+            [
+              524,
+              378
+            ],
+            [
+              568,
+              378
+            ],
+            [
+              568,
+              481
+            ],
+            [
+              524,
+              481
+            ]
+          ],
+          "at": [
+            546,
+            430
+          ],
+          "legacy_review_label": "EX. M/E ROOM",
+          "official_name": "EX. M/E ROOM",
+          "official_plan_name": "EX. M/E ROOM",
+          "name": "EX. M/E ROOM",
+          "short_label": "EX. M/E ROOM",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "EX. M/E ROOM"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              26.39,
+              12.3884
+            ],
+            [
+              28.7184,
+              12.3884
+            ],
+            [
+              28.7184,
+              6.939
+            ],
+            [
+              26.39,
+              6.939
+            ]
+          ],
+          "label_m": [
+            27.5542,
+            9.6372
+          ],
+          "centroid_m": [
+            27.5542,
+            9.6637
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G13",
+          "room_name": "EX. M/E ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G14",
+          "label": "MULTI-PURPOSE RM.",
+          "type": "room",
+          "points": [
+            [
+              573,
+              435
+            ],
+            [
+              619,
+              435
+            ],
+            [
+              619,
+              481
+            ],
+            [
+              573,
+              481
+            ]
+          ],
+          "at": [
+            596,
+            458
+          ],
+          "legacy_review_label": "MULTI-PURPOSE RM.",
+          "official_name": "MULTI-PURPOSE RM.",
+          "official_plan_name": "MULTI-PURPOSE RM.",
+          "name": "MULTI-PURPOSE RM.",
+          "short_label": "MULTI-PURPOSE RM.",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MULTI-PURPOSE RM."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              28.983,
+              9.3727
+            ],
+            [
+              31.4171,
+              9.3727
+            ],
+            [
+              31.4171,
+              6.939
+            ],
+            [
+              28.983,
+              6.939
+            ]
+          ],
+          "label_m": [
+            30.2001,
+            8.1558
+          ],
+          "centroid_m": [
+            30.2001,
+            8.1558
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G14",
+          "room_name": "MULTI-PURPOSE RM.",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G15",
+          "label": "Dreamchamber",
+          "type": "room",
+          "points": [
+            [
+              410,
+              451
+            ],
+            [
+              473,
+              451
+            ],
+            [
+              473,
+              486
+            ],
+            [
+              567,
+              486
+            ],
+            [
+              567,
+              524
+            ],
+            [
+              422,
+              524
+            ]
+          ],
+          "at": [
+            475,
+            506
+          ],
+          "legacy_review_label": "Dreamchamber",
+          "official_name": "Dreamchamber",
+          "official_plan_name": "FUNCTION RM. 2",
+          "name": "Dreamchamber",
+          "short_label": "Dreamchamber",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Dreamchamber",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Dreamchamber",
+            "FUNCTION RM. 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              20.3575,
+              8.5262
+            ],
+            [
+              23.6913,
+              8.5262
+            ],
+            [
+              23.6913,
+              6.6744
+            ],
+            [
+              28.6655,
+              6.6744
+            ],
+            [
+              28.6655,
+              4.6639
+            ],
+            [
+              20.9925,
+              4.6639
+            ]
+          ],
+          "label_m": [
+            23.7971,
+            5.6163
+          ],
+          "centroid_m": [
+            24.0256,
+            6.2038
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G15",
+          "room_name": "Dreamchamber",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G16",
+          "label": "FUNCTION ROOM 3",
+          "type": "room",
+          "points": [
+            [
+              746,
+              399
+            ],
+            [
+              818,
+              399
+            ],
+            [
+              845,
+              482
+            ],
+            [
+              746,
+              482
+            ]
+          ],
+          "at": [
+            790,
+            441
+          ],
+          "legacy_review_label": "FUNCTION ROOM 3",
+          "official_name": "FUNCTION ROOM 3",
+          "official_plan_name": "FUNCTION ROOM 3",
+          "name": "FUNCTION ROOM 3",
+          "short_label": "FUNCTION ROOM 3",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "FUNCTION ROOM 3"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              38.1376,
+              11.2774
+            ],
+            [
+              41.9476,
+              11.2774
+            ],
+            [
+              43.3764,
+              6.8861
+            ],
+            [
+              38.1376,
+              6.8861
+            ]
+          ],
+          "label_m": [
+            40.4659,
+            9.0553
+          ],
+          "centroid_m": [
+            40.4186,
+            8.9662
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G16",
+          "room_name": "FUNCTION ROOM 3",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G17",
+          "label": "MAKERSPACE B",
+          "type": "open",
+          "points": [
+            [
+              555,
+              488
+            ],
+            [
+              674,
+              488
+            ],
+            [
+              674,
+              571
+            ],
+            [
+              555,
+              571
+            ]
+          ],
+          "at": [
+            609,
+            529
+          ],
+          "legacy_review_label": "MAKERSPACE B",
+          "official_name": "MAKERSPACE B",
+          "official_plan_name": "MULTI-PURPOSE AREA 2",
+          "name": "MAKERSPACE B",
+          "short_label": "MAKERSPACE B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "MAKERSPACE B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MAKERSPACE B",
+            "MULTI-PURPOSE AREA 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              28.0305,
+              6.5686
+            ],
+            [
+              34.3276,
+              6.5686
+            ],
+            [
+              34.3276,
+              2.1773
+            ],
+            [
+              28.0305,
+              2.1773
+            ]
+          ],
+          "label_m": [
+            30.888,
+            4.3994
+          ],
+          "centroid_m": [
+            31.179,
+            4.373
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-MAKERSPACE-B",
+          "room_name": "MAKERSPACE B",
+          "is_historical_subregion": true,
+          "note": "官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。"
+        },
+        {
+          "id": "G18",
+          "label": "MAKERSPACE B",
+          "type": "open",
+          "points": [
+            [
+              424,
+              530
+            ],
+            [
+              552,
+              530
+            ],
+            [
+              552,
+              606
+            ],
+            [
+              442,
+              606
+            ]
+          ],
+          "at": [
+            488,
+            569
+          ],
+          "legacy_review_label": "MAKERSPACE B",
+          "official_name": "MAKERSPACE B",
+          "official_plan_name": "3D PRINTER",
+          "name": "MAKERSPACE B",
+          "short_label": "MAKERSPACE B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "MAKERSPACE B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MAKERSPACE B",
+            "3D PRINTER"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              21.0983,
+              4.3465
+            ],
+            [
+              27.8717,
+              4.3465
+            ],
+            [
+              27.8717,
+              0.3255
+            ],
+            [
+              22.0508,
+              0.3255
+            ]
+          ],
+          "label_m": [
+            24.485,
+            2.2831
+          ],
+          "centroid_m": [
+            24.7172,
+            2.3867
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-MAKERSPACE-B",
+          "room_name": "MAKERSPACE B",
+          "is_historical_subregion": true,
+          "note": "官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。"
+        },
+        {
+          "id": "G19",
+          "label": "MAKERSPACE B",
+          "type": "open",
+          "points": [
+            [
+              686,
+              488
+            ],
+            [
+              851,
+              488
+            ],
+            [
+              879,
+              606
+            ],
+            [
+              686,
+              606
+            ]
+          ],
+          "at": [
+            785,
+            549
+          ],
+          "legacy_review_label": "MAKERSPACE B",
+          "official_name": "MAKERSPACE B",
+          "official_plan_name": "A.I. & ROBOTICS AREA",
+          "name": "MAKERSPACE B",
+          "short_label": "MAKERSPACE B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "MAKERSPACE B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MAKERSPACE B",
+            "A.I. & ROBOTICS AREA"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              34.9626,
+              6.5686
+            ],
+            [
+              43.6939,
+              6.5686
+            ],
+            [
+              45.1756,
+              0.3255
+            ],
+            [
+              34.9626,
+              0.3255
+            ]
+          ],
+          "label_m": [
+            40.2014,
+            3.3413
+          ],
+          "centroid_m": [
+            39.7083,
+            3.3657
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-MAKERSPACE-B",
+          "room_name": "MAKERSPACE B",
+          "is_historical_subregion": true,
+          "note": "官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。"
+        },
+        {
+          "id": "G20",
+          "label": "GALLERY",
+          "type": "open",
+          "points": [
+            [
+              43,
+              357
+            ],
+            [
+              187,
+              314
+            ],
+            [
+              201,
+              359
+            ],
+            [
+              190,
+              375
+            ],
+            [
+              190,
+              610
+            ],
+            [
+              43,
+              610
+            ],
+            [
+              43,
+              538
+            ],
+            [
+              93,
+              538
+            ],
+            [
+              143,
+              524
+            ],
+            [
+              116,
+              412
+            ],
+            [
+              43,
+              412
+            ]
+          ],
+          "at": [
+            159,
+            467
+          ],
+          "legacy_review_label": "GALLERY",
+          "official_name": "GALLERY",
+          "official_plan_name": "GALLERY",
+          "name": "GALLERY",
+          "short_label": "GALLERY",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "GALLERY"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.937,
+              13.4995
+            ],
+            [
+              8.557,
+              15.7745
+            ],
+            [
+              9.2979,
+              13.3937
+            ],
+            [
+              8.7158,
+              12.5472
+            ],
+            [
+              8.7158,
+              0.1139
+            ],
+            [
+              0.937,
+              0.1139
+            ],
+            [
+              0.937,
+              3.9232
+            ],
+            [
+              3.5828,
+              3.9232
+            ],
+            [
+              6.2287,
+              4.6639
+            ],
+            [
+              4.7999,
+              10.5896
+            ],
+            [
+              0.937,
+              10.5896
+            ]
+          ],
+          "label_m": [
+            7.0754,
+            7.6797
+          ],
+          "centroid_m": [
+            5.5786,
+            7.5431
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G20",
+          "room_name": "GALLERY",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G21",
+          "label": "LIFT LOBBY",
+          "type": "open",
+          "points": [
+            [
+              194,
+              481
+            ],
+            [
+              349,
+              481
+            ],
+            [
+              382,
+              609
+            ],
+            [
+              194,
+              609
+            ]
+          ],
+          "at": [
+            280,
+            549
+          ],
+          "legacy_review_label": "LIFT LOBBY",
+          "official_name": "LIFT LOBBY",
+          "official_plan_name": "LIFT LOBBY",
+          "name": "LIFT LOBBY",
+          "short_label": "LIFT LOBBY",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LIFT LOBBY"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              8.9274,
+              6.939
+            ],
+            [
+              17.1296,
+              6.939
+            ],
+            [
+              18.8758,
+              0.1668
+            ],
+            [
+              8.9274,
+              0.1668
+            ]
+          ],
+          "label_m": [
+            13.4783,
+            3.3413
+          ],
+          "centroid_m": [
+            13.4791,
+            3.4443
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G21",
+          "room_name": "LIFT LOBBY",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G22",
+          "label": "LIFT",
+          "type": "service",
+          "points": [
+            [
+              247,
+              440
+            ],
+            [
+              328,
+              440
+            ],
+            [
+              328,
+              476
+            ],
+            [
+              247,
+              476
+            ]
+          ],
+          "at": [
+            288,
+            458
+          ],
+          "legacy_review_label": "LIFT",
+          "official_name": "LIFT",
+          "official_plan_name": "LIFT",
+          "name": "LIFT",
+          "short_label": "LIFT",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-GF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LIFT"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              11.732,
+              9.1082
+            ],
+            [
+              16.0183,
+              9.1082
+            ],
+            [
+              16.0183,
+              7.2035
+            ],
+            [
+              11.732,
+              7.2035
+            ]
+          ],
+          "label_m": [
+            13.9016,
+            8.1558
+          ],
+          "centroid_m": [
+            13.8752,
+            8.1558
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G22",
+          "room_name": "LIFT",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G23",
+          "label": "ELV ROOM",
+          "type": "service",
+          "points": [
+            [
+              194,
+              375
+            ],
+            [
+              237,
+              375
+            ],
+            [
+              237,
+              426
+            ],
+            [
+              218,
+              426
+            ],
+            [
+              218,
+              391
+            ],
+            [
+              194,
+              391
+            ]
+          ],
+          "at": [
+            226,
+            392
+          ],
+          "legacy_review_label": "ELV ROOM",
+          "official_name": "ELV ROOM",
+          "official_plan_name": "SERVER RM.",
+          "name": "ELV ROOM",
+          "short_label": "ELV ROOM",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "ELV ROOM",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "ELV ROOM",
+            "SERVER RM."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              8.9274,
+              12.5472
+            ],
+            [
+              11.2029,
+              12.5472
+            ],
+            [
+              11.2029,
+              9.8489
+            ],
+            [
+              10.1975,
+              9.8489
+            ],
+            [
+              10.1975,
+              11.7006
+            ],
+            [
+              8.9274,
+              11.7006
+            ]
+          ],
+          "label_m": [
+            10.6208,
+            11.6477
+          ],
+          "centroid_m": [
+            10.3773,
+            11.4608
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G23",
+          "room_name": "ELV ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G24",
+          "label": "LAVATORY 1",
+          "type": "service",
+          "points": [
+            [
+              222,
+              379
+            ],
+            [
+              328,
+              379
+            ],
+            [
+              328,
+              435
+            ],
+            [
+              247,
+              435
+            ],
+            [
+              247,
+              477
+            ],
+            [
+              222,
+              477
+            ]
+          ],
+          "at": [
+            279,
+            408
+          ],
+          "legacy_review_label": "LAVATORY 1",
+          "official_name": "LAVATORY 1",
+          "official_plan_name": "M. / F.",
+          "name": "LAVATORY 1",
+          "short_label": "LAVATORY 1",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "LAVATORY 1",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LAVATORY 1",
+            "M. / F."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              10.4091,
+              12.3355
+            ],
+            [
+              16.0183,
+              12.3355
+            ],
+            [
+              16.0183,
+              9.3727
+            ],
+            [
+              11.732,
+              9.3727
+            ],
+            [
+              11.732,
+              7.1506
+            ],
+            [
+              10.4091,
+              7.1506
+            ]
+          ],
+          "label_m": [
+            13.4254,
+            10.8012
+          ],
+          "centroid_m": [
+            12.8916,
+            10.4645
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G24",
+          "room_name": "LAVATORY 1",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G25",
+          "label": "STAIRCASE",
+          "type": "stair",
+          "points": [
+            [
+              214,
+              161
+            ],
+            [
+              237,
+              157
+            ],
+            [
+              275,
+              290
+            ],
+            [
+              252,
+              298
+            ]
+          ],
+          "at": [
+            245,
+            228
+          ],
+          "legacy_review_label": "通行楼梯（图纸未标房间名）",
+          "official_name": "STAIRCASE",
+          "official_plan_name": null,
+          "name": "STAIRCASE",
+          "short_label": "STAIRCASE",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "STAIRCASE",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行楼梯（图纸未标房间名）",
+            "STAIRCASE"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              9.9858,
+              23.8694
+            ],
+            [
+              11.2029,
+              24.081
+            ],
+            [
+              13.2137,
+              17.0443
+            ],
+            [
+              11.9966,
+              16.621
+            ]
+          ],
+          "label_m": [
+            11.6262,
+            20.3246
+          ],
+          "centroid_m": [
+            11.6046,
+            20.376
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G25",
+          "room_name": "STAIRCASE",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G26",
+          "label": "通行楼梯（图纸未标房间名）",
+          "type": "stair",
+          "points": [
+            [
+              681,
+              378
+            ],
+            [
+              739,
+              378
+            ],
+            [
+              739,
+              482
+            ],
+            [
+              681,
+              482
+            ]
+          ],
+          "at": [
+            710,
+            429
+          ],
+          "note": "底图黄色安全站标记遮挡了部分范围，边界需审核。",
+          "legacy_review_label": "通行楼梯（图纸未标房间名）",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行楼梯（图纸未标房间名）",
+          "short_label": "通行楼梯（图纸未标房间名）",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行楼梯（图纸未标房间名）"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              34.698,
+              12.3884
+            ],
+            [
+              37.7672,
+              12.3884
+            ],
+            [
+              37.7672,
+              6.8861
+            ],
+            [
+              34.698,
+              6.8861
+            ]
+          ],
+          "label_m": [
+            36.2326,
+            9.6902
+          ],
+          "centroid_m": [
+            36.2326,
+            9.6372
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G27",
+          "label": "通行区：上侧",
+          "type": "circulation",
+          "points": [
+            [
+              331,
+              297
+            ],
+            [
+              894,
+              297
+            ],
+            [
+              894,
+              318
+            ],
+            [
+              331,
+              318
+            ]
+          ],
+          "at": [
+            651,
+            307
+          ],
+          "legacy_review_label": "通行区：上侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：上侧",
+          "short_label": "通行区：上侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：上侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              16.1771,
+              16.6739
+            ],
+            [
+              45.9693,
+              16.6739
+            ],
+            [
+              45.9693,
+              15.5629
+            ],
+            [
+              16.1771,
+              15.5629
+            ]
+          ],
+          "label_m": [
+            33.1105,
+            16.1449
+          ],
+          "centroid_m": [
+            31.0732,
+            16.1184
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G28",
+          "label": "通行区：东侧",
+          "type": "circulation",
+          "points": [
+            [
+              832,
+              216
+            ],
+            [
+              894,
+              216
+            ],
+            [
+              894,
+              292
+            ],
+            [
+              832,
+              292
+            ]
+          ],
+          "at": [
+            864,
+            253
+          ],
+          "legacy_review_label": "通行区：东侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：东侧",
+          "short_label": "通行区：东侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：东侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              42.6885,
+              20.9594
+            ],
+            [
+              45.9693,
+              20.9594
+            ],
+            [
+              45.9693,
+              16.9385
+            ],
+            [
+              42.6885,
+              16.9385
+            ]
+          ],
+          "label_m": [
+            44.3818,
+            19.0019
+          ],
+          "centroid_m": [
+            44.3289,
+            18.949
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G29",
+          "label": "通行区：中央",
+          "type": "circulation",
+          "points": [
+            [
+              628,
+              321
+            ],
+            [
+              678,
+              321
+            ],
+            [
+              678,
+              606
+            ],
+            [
+              628,
+              606
+            ]
+          ],
+          "at": [
+            652,
+            531
+          ],
+          "legacy_review_label": "通行区：中央",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：中央",
+          "short_label": "通行区：中央",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：中央"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              31.8934,
+              15.4042
+            ],
+            [
+              34.5392,
+              15.4042
+            ],
+            [
+              34.5392,
+              0.3255
+            ],
+            [
+              31.8934,
+              0.3255
+            ]
+          ],
+          "label_m": [
+            33.1634,
+            4.2936
+          ],
+          "centroid_m": [
+            33.2163,
+            7.8648
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G30",
+          "label": "通行区：斜向",
+          "type": "circulation",
+          "points": [
+            [
+              340,
+              321
+            ],
+            [
+              382,
+              321
+            ],
+            [
+              411,
+              437
+            ],
+            [
+              407,
+              448
+            ],
+            [
+              430,
+              531
+            ],
+            [
+              442,
+              606
+            ],
+            [
+              387,
+              606
+            ],
+            [
+              351,
+              477
+            ]
+          ],
+          "at": [
+            380,
+            409
+          ],
+          "legacy_review_label": "通行区：斜向",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：斜向",
+          "short_label": "通行区：斜向",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：斜向"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              16.6533,
+              15.4042
+            ],
+            [
+              18.8758,
+              15.4042
+            ],
+            [
+              20.4104,
+              9.2669
+            ],
+            [
+              20.1988,
+              8.6849
+            ],
+            [
+              21.4158,
+              4.2936
+            ],
+            [
+              22.0508,
+              0.3255
+            ],
+            [
+              19.1404,
+              0.3255
+            ],
+            [
+              17.2354,
+              7.1506
+            ]
+          ],
+          "label_m": [
+            18.77,
+            10.7483
+          ],
+          "centroid_m": [
+            19.084,
+            7.5484
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G31",
+          "label": "DISABLED TOILET",
+          "type": "service",
+          "points": [
+            [
+              478,
+              433
+            ],
+            [
+              521,
+              433
+            ],
+            [
+              521,
+              481
+            ],
+            [
+              478,
+              481
+            ]
+          ],
+          "at": [
+            499,
+            457
+          ],
+          "legacy_review_label": "Accessible Toilet",
+          "official_name": "DISABLED TOILET",
+          "official_plan_name": "A.T.",
+          "name": "DISABLED TOILET",
+          "short_label": "DISABLED TOILET",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "DISABLED TOILET",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Accessible Toilet",
+            "A.T.",
+            "DISABLED TOILET"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.9559,
+              9.4785
+            ],
+            [
+              26.2313,
+              9.4785
+            ],
+            [
+              26.2313,
+              6.939
+            ],
+            [
+              23.9559,
+              6.939
+            ]
+          ],
+          "label_m": [
+            25.0671,
+            8.2087
+          ],
+          "centroid_m": [
+            25.0936,
+            8.2087
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G31",
+          "room_name": "DISABLED TOILET",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "G32",
+          "label": "ST1",
+          "type": "stair",
+          "points": [
+            [
+              194,
+              393
+            ],
+            [
+              215,
+              393
+            ],
+            [
+              215,
+              476
+            ],
+            [
+              194,
+              476
+            ]
+          ],
+          "at": [
+            205,
+            438
+          ],
+          "legacy_review_label": "Staircase ST1",
+          "official_name": "ST1",
+          "official_plan_name": null,
+          "name": "ST1",
+          "short_label": "ST1",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "ST1",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide1.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Staircase ST1",
+            "ST1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              8.9274,
+              11.5948
+            ],
+            [
+              10.0387,
+              11.5948
+            ],
+            [
+              10.0387,
+              7.2035
+            ],
+            [
+              8.9274,
+              7.2035
+            ]
+          ],
+          "label_m": [
+            9.5095,
+            9.214
+          ],
+          "centroid_m": [
+            9.4831,
+            9.3992
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "GF-G32",
+          "room_name": "ST1",
+          "is_historical_subregion": false
+        }
+      ],
+      "footprint_m": [
+        [
+          -0.0155,
+          25.192
+        ],
+        [
+          46.4456,
+          25.192
+        ],
+        [
+          46.4456,
+          0.061
+        ],
+        [
+          0.8312,
+          0.061
+        ],
+        [
+          0.8312,
+          14.0286
+        ],
+        [
+          -0.0155,
+          14.0286
+        ]
+      ],
+      "calibration_version": "official-axis-mm-2026-10-12-v1",
+      "names_source": "Official 2020-path safety raster; compared with 2023-08-30 official event map; current site names need confirmation."
+    },
+    {
+      "id": "LGF",
+      "label": "LG/F",
+      "width": 1096,
+      "height": 782,
+      "image": "lgf-official.png",
+      "source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+      "footprint": [
+        [
+          64,
+          129
+        ],
+        [
+          938,
+          129
+        ],
+        [
+          938,
+          590
+        ],
+        [
+          64,
+          590
+        ],
+        [
+          64,
+          410
+        ],
+        [
+          87,
+          410
+        ],
+        [
+          87,
+          296
+        ],
+        [
+          64,
+          296
+        ]
+      ],
+      "regions": [
+        {
+          "id": "L01",
+          "label": "BRAINSTORMING AREA",
+          "type": "room",
+          "points": [
+            [
+              75,
+              136
+            ],
+            [
+              226,
+              136
+            ],
+            [
+              226,
+              285
+            ],
+            [
+              75,
+              256
+            ]
+          ],
+          "at": [
+            152,
+            204
+          ],
+          "legacy_review_label": "BRAINSTORMING AREA",
+          "official_name": "BRAINSTORMING AREA",
+          "official_plan_name": "COMPUTER AID DESIGN LAB",
+          "name": "BRAINSTORMING AREA",
+          "short_label": "BRAINSTORMING AREA",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "BRAINSTORMING AREA",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "BRAINSTORMING AREA",
+            "COMPUTER AID DESIGN LAB"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.7617,
+              24.264
+            ],
+            [
+              8.7528,
+              24.264
+            ],
+            [
+              8.7528,
+              16.3849
+            ],
+            [
+              0.7617,
+              17.9184
+            ]
+          ],
+          "label_m": [
+            4.8366,
+            20.6682
+          ],
+          "centroid_m": [
+            4.9008,
+            20.694
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-BRAINSTORMING-AREA",
+          "room_name": "BRAINSTORMING AREA",
+          "is_historical_subregion": true,
+          "note": "官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。"
+        },
+        {
+          "id": "L02",
+          "label": "Event Hall A&B",
+          "type": "room",
+          "points": [
+            [
+              300,
+              132
+            ],
+            [
+              505,
+              132
+            ],
+            [
+              505,
+              312
+            ],
+            [
+              364,
+              312
+            ],
+            [
+              364,
+              287
+            ],
+            [
+              352,
+              287
+            ]
+          ],
+          "at": [
+            410,
+            220
+          ],
+          "note": "与 Teaching Studio 2 之间是可移动隔断。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。",
+          "legacy_review_label": "Event Hall A&B",
+          "official_name": "Event Hall A&B",
+          "official_plan_name": "TEACHING STUDIO 1",
+          "name": "Event Hall A&B",
+          "short_label": "Event Hall A&B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Event Hall A&B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Event Hall A&B",
+            "TEACHING STUDIO 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              12.669,
+              24.4755
+            ],
+            [
+              23.5178,
+              24.4755
+            ],
+            [
+              23.5178,
+              14.9572
+            ],
+            [
+              16.0559,
+              14.9572
+            ],
+            [
+              16.0559,
+              16.2792
+            ],
+            [
+              15.4209,
+              16.2792
+            ]
+          ],
+          "label_m": [
+            18.4903,
+            19.8221
+          ],
+          "centroid_m": [
+            18.8652,
+            20.0169
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-EVENT-HALL-AB",
+          "room_name": "Event Hall A&B",
+          "is_historical_subregion": true
+        },
+        {
+          "id": "L03",
+          "label": "Event Hall A&B",
+          "type": "room",
+          "points": [
+            [
+              508,
+              132
+            ],
+            [
+              680,
+              132
+            ],
+            [
+              680,
+              313
+            ],
+            [
+              549,
+              313
+            ],
+            [
+              549,
+              287
+            ],
+            [
+              508,
+              287
+            ]
+          ],
+          "at": [
+            593,
+            219
+          ],
+          "note": "与 Teaching Studio 1 之间是可移动隔断。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。",
+          "legacy_review_label": "Event Hall A&B",
+          "official_name": "Event Hall A&B",
+          "official_plan_name": "TEACHING STUDIO 2",
+          "name": "Event Hall A&B",
+          "short_label": "Event Hall A&B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Event Hall A&B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Event Hall A&B",
+            "TEACHING STUDIO 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.6766,
+              24.4755
+            ],
+            [
+              32.7791,
+              24.4755
+            ],
+            [
+              32.7791,
+              14.9043
+            ],
+            [
+              25.8464,
+              14.9043
+            ],
+            [
+              25.8464,
+              16.2792
+            ],
+            [
+              23.6766,
+              16.2792
+            ]
+          ],
+          "label_m": [
+            28.1749,
+            19.875
+          ],
+          "centroid_m": [
+            28.3507,
+            19.8352
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-EVENT-HALL-AB",
+          "room_name": "Event Hall A&B",
+          "is_historical_subregion": true
+        },
+        {
+          "id": "L04",
+          "label": "Project Studio",
+          "type": "room",
+          "points": [
+            [
+              690,
+              136
+            ],
+            [
+              773,
+              136
+            ],
+            [
+              773,
+              199
+            ],
+            [
+              742,
+              199
+            ],
+            [
+              742,
+              218
+            ],
+            [
+              690,
+              218
+            ]
+          ],
+          "at": [
+            730,
+            172
+          ],
+          "legacy_review_label": "Project Studio",
+          "official_name": "Project Studio",
+          "official_plan_name": "FUNCTION RM. 1",
+          "name": "Project Studio",
+          "short_label": "Project Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Project Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Project Studio",
+            "FUNCTION RM. 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              33.3083,
+              24.264
+            ],
+            [
+              37.7007,
+              24.264
+            ],
+            [
+              37.7007,
+              20.9325
+            ],
+            [
+              36.0602,
+              20.9325
+            ],
+            [
+              36.0602,
+              19.9278
+            ],
+            [
+              33.3083,
+              19.9278
+            ]
+          ],
+          "label_m": [
+            35.4251,
+            22.3603
+          ],
+          "centroid_m": [
+            35.3742,
+            22.2537
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L04",
+          "room_name": "Project Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L05",
+          "label": "Project Studio",
+          "type": "room",
+          "points": [
+            [
+              690,
+              224
+            ],
+            [
+              739,
+              224
+            ],
+            [
+              739,
+              282
+            ],
+            [
+              754,
+              282
+            ],
+            [
+              754,
+              314
+            ],
+            [
+              690,
+              314
+            ]
+          ],
+          "at": [
+            716,
+            270
+          ],
+          "legacy_review_label": "Project Studio",
+          "official_name": "Project Studio",
+          "official_plan_name": "FUNCTION RM. 2",
+          "name": "Project Studio",
+          "short_label": "Project Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Project Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Project Studio",
+            "FUNCTION RM. 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              33.3083,
+              19.6106
+            ],
+            [
+              35.9014,
+              19.6106
+            ],
+            [
+              35.9014,
+              16.5436
+            ],
+            [
+              36.6952,
+              16.5436
+            ],
+            [
+              36.6952,
+              14.8514
+            ],
+            [
+              33.3083,
+              14.8514
+            ]
+          ],
+          "label_m": [
+            34.6842,
+            17.1781
+          ],
+          "centroid_m": [
+            34.7711,
+            17.0805
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L05",
+          "room_name": "Project Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L06",
+          "label": "Project Studio",
+          "type": "room",
+          "points": [
+            [
+              780,
+              135
+            ],
+            [
+              932,
+              135
+            ],
+            [
+              932,
+              238
+            ],
+            [
+              780,
+              238
+            ]
+          ],
+          "at": [
+            855,
+            186
+          ],
+          "legacy_review_label": "Project Studio",
+          "official_name": "Project Studio",
+          "official_plan_name": "SPECIAL PROJECT ROOM 1",
+          "name": "Project Studio",
+          "short_label": "Project Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Project Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Project Studio",
+            "SPECIAL PROJECT ROOM 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              38.0712,
+              24.3168
+            ],
+            [
+              46.1152,
+              24.3168
+            ],
+            [
+              46.1152,
+              18.8703
+            ],
+            [
+              38.0712,
+              18.8703
+            ]
+          ],
+          "label_m": [
+            42.0403,
+            21.62
+          ],
+          "centroid_m": [
+            42.0932,
+            21.5935
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L06",
+          "room_name": "Project Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L07",
+          "label": "Project Studio",
+          "type": "room",
+          "points": [
+            [
+              782,
+              244
+            ],
+            [
+              932,
+              244
+            ],
+            [
+              932,
+              464
+            ],
+            [
+              779,
+              464
+            ],
+            [
+              779,
+              358
+            ],
+            [
+              776,
+              358
+            ],
+            [
+              776,
+              286
+            ]
+          ],
+          "at": [
+            859,
+            355
+          ],
+          "legacy_review_label": "Project Studio",
+          "official_name": "Project Studio",
+          "official_plan_name": "SPECIAL PROJECT ROOM 2",
+          "name": "Project Studio",
+          "short_label": "Project Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Project Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Project Studio",
+            "SPECIAL PROJECT ROOM 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              38.177,
+              18.553
+            ],
+            [
+              46.1152,
+              18.553
+            ],
+            [
+              46.1152,
+              6.9195
+            ],
+            [
+              38.0183,
+              6.9195
+            ],
+            [
+              38.0183,
+              12.5247
+            ],
+            [
+              37.8595,
+              12.5247
+            ],
+            [
+              37.8595,
+              16.332
+            ]
+          ],
+          "label_m": [
+            42.252,
+            12.6834
+          ],
+          "centroid_m": [
+            42.0403,
+            12.7456
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L07",
+          "room_name": "Project Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L08",
+          "label": "BRAINSTORMING AREA",
+          "type": "open",
+          "points": [
+            [
+              77,
+              336
+            ],
+            [
+              224,
+              336
+            ],
+            [
+              224,
+              523
+            ],
+            [
+              65,
+              523
+            ],
+            [
+              65,
+              412
+            ],
+            [
+              88,
+              412
+            ],
+            [
+              88,
+              338
+            ]
+          ],
+          "at": [
+            150,
+            429
+          ],
+          "legacy_review_label": "BRAINSTORMING AREA",
+          "official_name": "BRAINSTORMING AREA",
+          "official_plan_name": "BRAINSTORMING AREA",
+          "name": "BRAINSTORMING AREA",
+          "short_label": "BRAINSTORMING AREA",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "BRAINSTORMING AREA",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "BRAINSTORMING AREA"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.8675,
+              13.6881
+            ],
+            [
+              8.647,
+              13.6881
+            ],
+            [
+              8.647,
+              3.7996
+            ],
+            [
+              0.2325,
+              3.7996
+            ],
+            [
+              0.2325,
+              9.6692
+            ],
+            [
+              1.4497,
+              9.6692
+            ],
+            [
+              1.4497,
+              13.5823
+            ]
+          ],
+          "label_m": [
+            4.7308,
+            8.7703
+          ],
+          "centroid_m": [
+            4.6632,
+            8.5625
+          ],
+          "partition_status": "historical_subdivision_in_newer_named_open_area",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-BRAINSTORMING-AREA",
+          "room_name": "BRAINSTORMING AREA",
+          "is_historical_subregion": true,
+          "note": "官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。 官方2023活动图显示合并命名区域，当前边界是2020底图子区，不表示2023仍有独立隔墙。"
+        },
+        {
+          "id": "L09",
+          "label": "Meeting Room B",
+          "type": "room",
+          "points": [
+            [
+              66,
+              528
+            ],
+            [
+              125,
+              528
+            ],
+            [
+              125,
+              587
+            ],
+            [
+              66,
+              587
+            ]
+          ],
+          "at": [
+            96,
+            558
+          ],
+          "legacy_review_label": "Meeting Room B",
+          "official_name": "Meeting Room B",
+          "official_plan_name": "SMALL MEETING ROOM 1",
+          "name": "Meeting Room B",
+          "short_label": "Meeting Room B",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Meeting Room B",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Meeting Room B",
+            "SMALL MEETING ROOM 1"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              0.2854,
+              3.5352
+            ],
+            [
+              3.4078,
+              3.5352
+            ],
+            [
+              3.4078,
+              0.4153
+            ],
+            [
+              0.2854,
+              0.4153
+            ]
+          ],
+          "label_m": [
+            1.873,
+            1.9488
+          ],
+          "centroid_m": [
+            1.8466,
+            1.9753
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L09",
+          "room_name": "Meeting Room B",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L10",
+          "label": "Staff Office",
+          "type": "room",
+          "points": [
+            [
+              135,
+              528
+            ],
+            [
+              222,
+              528
+            ],
+            [
+              222,
+              587
+            ],
+            [
+              135,
+              587
+            ]
+          ],
+          "at": [
+            178,
+            558
+          ],
+          "legacy_review_label": "Staff Office",
+          "official_name": "Staff Office",
+          "official_plan_name": "SMALL MEETING ROOM 2",
+          "name": "Staff Office",
+          "short_label": "Staff Office",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Staff Office",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Staff Office",
+            "SMALL MEETING ROOM 2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              3.937,
+              3.5352
+            ],
+            [
+              8.5411,
+              3.5352
+            ],
+            [
+              8.5411,
+              0.4153
+            ],
+            [
+              3.937,
+              0.4153
+            ]
+          ],
+          "label_m": [
+            6.2126,
+            1.9488
+          ],
+          "centroid_m": [
+            6.239,
+            1.9753
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L10",
+          "room_name": "Staff Office",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L11",
+          "label": "Store Room",
+          "type": "room",
+          "points": [
+            [
+              233,
+              359
+            ],
+            [
+              360,
+              359
+            ],
+            [
+              360,
+              410
+            ],
+            [
+              296,
+              410
+            ],
+            [
+              296,
+              463
+            ],
+            [
+              233,
+              463
+            ]
+          ],
+          "at": [
+            281,
+            395
+          ],
+          "legacy_review_label": "Store Room",
+          "official_name": "Store Room",
+          "official_plan_name": "MULTI-PURPOSE ROOM (STORE)",
+          "name": "Store Room",
+          "short_label": "Store Room",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Store Room",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Store Room",
+            "MULTI-PURPOSE ROOM (STORE)"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              9.1232,
+              12.4718
+            ],
+            [
+              15.8443,
+              12.4718
+            ],
+            [
+              15.8443,
+              9.775
+            ],
+            [
+              12.4573,
+              9.775
+            ],
+            [
+              12.4573,
+              6.9724
+            ],
+            [
+              9.1232,
+              6.9724
+            ]
+          ],
+          "label_m": [
+            11.6635,
+            10.5682
+          ],
+          "centroid_m": [
+            11.9077,
+            10.1881
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L11",
+          "room_name": "Store Room",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L12",
+          "label": "LIFT",
+          "type": "service",
+          "points": [
+            [
+              304,
+              419
+            ],
+            [
+              361,
+              419
+            ],
+            [
+              361,
+              458
+            ],
+            [
+              304,
+              458
+            ]
+          ],
+          "at": [
+            333,
+            440
+          ],
+          "legacy_review_label": "LIFT",
+          "official_name": "LIFT",
+          "official_plan_name": "LIFT",
+          "name": "LIFT",
+          "short_label": "LIFT",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LIFT"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              12.8807,
+              9.2991
+            ],
+            [
+              15.8972,
+              9.2991
+            ],
+            [
+              15.8972,
+              7.2368
+            ],
+            [
+              12.8807,
+              7.2368
+            ]
+          ],
+          "label_m": [
+            14.4154,
+            8.1886
+          ],
+          "centroid_m": [
+            14.3889,
+            8.2679
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L12",
+          "room_name": "LIFT",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L13",
+          "label": "CONTROL ROOM",
+          "type": "room",
+          "points": [
+            [
+              437,
+              357
+            ],
+            [
+              504,
+              357
+            ],
+            [
+              504,
+              394
+            ],
+            [
+              449,
+              412
+            ],
+            [
+              428,
+              366
+            ]
+          ],
+          "at": [
+            475,
+            380
+          ],
+          "note": "黄色安全站标记遮挡了部分西侧边界，暂按可见墙线描绘。",
+          "legacy_review_label": "CONTROL ROOM",
+          "official_name": "CONTROL ROOM",
+          "official_plan_name": "CONTROL ROOM",
+          "name": "CONTROL ROOM",
+          "short_label": "CONTROL ROOM",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "CONTROL ROOM",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "CONTROL ROOM"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              19.9192,
+              12.5776
+            ],
+            [
+              23.4649,
+              12.5776
+            ],
+            [
+              23.4649,
+              10.6211
+            ],
+            [
+              20.5542,
+              9.6692
+            ],
+            [
+              19.4429,
+              12.1017
+            ]
+          ],
+          "label_m": [
+            21.9302,
+            11.3614
+          ],
+          "centroid_m": [
+            21.5653,
+            11.3831
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L13",
+          "room_name": "CONTROL ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L14",
+          "label": "Podcast Studio",
+          "type": "room",
+          "points": [
+            [
+              450,
+              416
+            ],
+            [
+              504,
+              400
+            ],
+            [
+              504,
+              464
+            ],
+            [
+              451,
+              464
+            ],
+            [
+              438,
+              430
+            ]
+          ],
+          "at": [
+            475,
+            438
+          ],
+          "legacy_review_label": "Podcast Studio",
+          "official_name": "Podcast Studio",
+          "official_plan_name": "SOUND PROOF RM.",
+          "name": "Podcast Studio",
+          "short_label": "Podcast Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Podcast Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Podcast Studio",
+            "SOUND PROOF RM."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              20.6072,
+              9.4577
+            ],
+            [
+              23.4649,
+              10.3038
+            ],
+            [
+              23.4649,
+              6.9195
+            ],
+            [
+              20.6601,
+              6.9195
+            ],
+            [
+              19.9721,
+              8.7174
+            ]
+          ],
+          "label_m": [
+            21.9302,
+            8.2944
+          ],
+          "centroid_m": [
+            21.9635,
+            8.4108
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L14",
+          "room_name": "Podcast Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L15",
+          "label": "A.H.U. ROOM",
+          "type": "service",
+          "points": [
+            [
+              514,
+              360
+            ],
+            [
+              656,
+              360
+            ],
+            [
+              656,
+              462
+            ],
+            [
+              514,
+              462
+            ]
+          ],
+          "at": [
+            585,
+            410
+          ],
+          "legacy_review_label": "A.H.U. ROOM",
+          "official_name": "A.H.U. ROOM",
+          "official_plan_name": "A.H.U. ROOM",
+          "name": "A.H.U. ROOM",
+          "short_label": "A.H.U. ROOM",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "A.H.U. ROOM"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.9941,
+              12.419
+            ],
+            [
+              31.509,
+              12.419
+            ],
+            [
+              31.509,
+              7.0253
+            ],
+            [
+              23.9941,
+              7.0253
+            ]
+          ],
+          "label_m": [
+            27.7515,
+            9.775
+          ],
+          "centroid_m": [
+            27.7515,
+            9.7221
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L15",
+          "room_name": "A.H.U. ROOM",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L16",
+          "label": "LIFT LOBBY",
+          "type": "open",
+          "points": [
+            [
+              299,
+              478
+            ],
+            [
+              353,
+              478
+            ],
+            [
+              353,
+              589
+            ],
+            [
+              299,
+              589
+            ]
+          ],
+          "at": [
+            326,
+            537
+          ],
+          "legacy_review_label": "LIFT LOBBY",
+          "official_name": "LIFT LOBBY",
+          "official_plan_name": "LIFT LOBBY",
+          "name": "LIFT LOBBY",
+          "short_label": "LIFT LOBBY",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "LIFT LOBBY"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              12.6161,
+              6.1792
+            ],
+            [
+              15.4738,
+              6.1792
+            ],
+            [
+              15.4738,
+              0.3096
+            ],
+            [
+              12.6161,
+              0.3096
+            ]
+          ],
+          "label_m": [
+            14.0449,
+            3.0593
+          ],
+          "centroid_m": [
+            14.0449,
+            3.2444
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L16",
+          "room_name": "LIFT LOBBY",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L17",
+          "label": "MALE LAV.",
+          "type": "service",
+          "points": [
+            [
+              234,
+              480
+            ],
+            [
+              291,
+              480
+            ],
+            [
+              291,
+              588
+            ],
+            [
+              234,
+              588
+            ]
+          ],
+          "at": [
+            263,
+            537
+          ],
+          "legacy_review_label": "MALE LAV.",
+          "official_name": "MALE LAV.",
+          "official_plan_name": "MALE LAV.",
+          "name": "MALE LAV.",
+          "short_label": "MALE LAV.",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "MALE LAV."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              9.1762,
+              6.0734
+            ],
+            [
+              12.1927,
+              6.0734
+            ],
+            [
+              12.1927,
+              0.3624
+            ],
+            [
+              9.1762,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            10.7109,
+            3.0593
+          ],
+          "centroid_m": [
+            10.6844,
+            3.2179
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L17",
+          "room_name": "MALE LAV.",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L18",
+          "label": "A.T.",
+          "type": "service",
+          "points": [
+            [
+              359,
+              510
+            ],
+            [
+              437,
+              510
+            ],
+            [
+              437,
+              548
+            ],
+            [
+              359,
+              548
+            ]
+          ],
+          "at": [
+            398,
+            529
+          ],
+          "legacy_review_label": "A.T.",
+          "official_name": "A.T.",
+          "official_plan_name": "A.T.",
+          "name": "A.T.",
+          "short_label": "A.T.",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "A.T."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              15.7913,
+              4.487
+            ],
+            [
+              19.9192,
+              4.487
+            ],
+            [
+              19.9192,
+              2.4776
+            ],
+            [
+              15.7913,
+              2.4776
+            ]
+          ],
+          "label_m": [
+            17.8553,
+            3.4823
+          ],
+          "centroid_m": [
+            17.8553,
+            3.4823
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L18",
+          "room_name": "A.T.",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L19",
+          "label": "FEMALE LAV.",
+          "type": "service",
+          "points": [
+            [
+              359,
+              555
+            ],
+            [
+              448,
+              555
+            ],
+            [
+              448,
+              516
+            ],
+            [
+              505,
+              516
+            ],
+            [
+              505,
+              588
+            ],
+            [
+              359,
+              588
+            ]
+          ],
+          "at": [
+            460,
+            565
+          ],
+          "legacy_review_label": "FEMALE LAV.",
+          "official_name": "FEMALE LAV.",
+          "official_plan_name": "FEMALE LAV.",
+          "name": "FEMALE LAV.",
+          "short_label": "FEMALE LAV.",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "FEMALE LAV."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              15.7913,
+              2.1075
+            ],
+            [
+              20.5013,
+              2.1075
+            ],
+            [
+              20.5013,
+              4.1698
+            ],
+            [
+              23.5178,
+              4.1698
+            ],
+            [
+              23.5178,
+              0.3624
+            ],
+            [
+              15.7913,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            21.1364,
+            1.5787
+          ],
+          "centroid_m": [
+            20.3981,
+            1.836
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L19",
+          "room_name": "FEMALE LAV.",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L20",
+          "label": "CULTURE LAB.",
+          "type": "room",
+          "points": [
+            [
+              513,
+              512
+            ],
+            [
+              539,
+              512
+            ],
+            [
+              539,
+              588
+            ],
+            [
+              513,
+              588
+            ]
+          ],
+          "at": [
+            526,
+            550
+          ],
+          "legacy_review_label": "CULTURE LAB.",
+          "official_name": "CULTURE LAB.",
+          "official_plan_name": "CULTURE LAB.",
+          "name": "CULTURE LAB.",
+          "short_label": "CULTURE LAB.",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "CULTURE LAB."
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              23.9412,
+              4.3813
+            ],
+            [
+              25.3172,
+              4.3813
+            ],
+            [
+              25.3172,
+              0.3624
+            ],
+            [
+              23.9412,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            24.6292,
+            2.3719
+          ],
+          "centroid_m": [
+            24.6292,
+            2.3719
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L20",
+          "room_name": "CULTURE LAB.",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L21",
+          "label": "SPECIAL PROJECT ROOM 3",
+          "type": "room",
+          "points": [
+            [
+              545,
+              512
+            ],
+            [
+              680,
+              512
+            ],
+            [
+              680,
+              588
+            ],
+            [
+              545,
+              588
+            ]
+          ],
+          "at": [
+            612,
+            551
+          ],
+          "legacy_review_label": "SPECIAL PROJECT ROOM 3",
+          "official_name": "SPECIAL PROJECT ROOM 3",
+          "official_plan_name": "SPECIAL PROJECT ROOM 3",
+          "name": "SPECIAL PROJECT ROOM 3",
+          "short_label": "SPECIAL PROJECT ROOM 3",
+          "name_status": "historical_official_raster_label",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2020/09/fire-escape-route-LGF.png",
+          "name_source_date": "2020-path-raster-date-not-established",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "SPECIAL PROJECT ROOM 3"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              25.6347,
+              4.3813
+            ],
+            [
+              32.7791,
+              4.3813
+            ],
+            [
+              32.7791,
+              0.3624
+            ],
+            [
+              25.6347,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            29.1804,
+            2.319
+          ],
+          "centroid_m": [
+            29.2069,
+            2.3719
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L21",
+          "room_name": "SPECIAL PROJECT ROOM 3",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L22",
+          "label": "VR Room",
+          "type": "room",
+          "points": [
+            [
+              692,
+              512
+            ],
+            [
+              768,
+              512
+            ],
+            [
+              768,
+              588
+            ],
+            [
+              692,
+              588
+            ]
+          ],
+          "at": [
+            730,
+            551
+          ],
+          "legacy_review_label": "VR Room",
+          "official_name": "VR Room",
+          "official_plan_name": "AR VR MR STUDIO",
+          "name": "VR Room",
+          "short_label": "VR Room",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "VR Room",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "VR Room",
+            "AR VR MR STUDIO"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              33.4141,
+              4.3813
+            ],
+            [
+              37.4361,
+              4.3813
+            ],
+            [
+              37.4361,
+              0.3624
+            ],
+            [
+              33.4141,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            35.4251,
+            2.319
+          ],
+          "centroid_m": [
+            35.4251,
+            2.3719
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L22",
+          "room_name": "VR Room",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L23",
+          "label": "Digital Learning Studio",
+          "type": "room",
+          "points": [
+            [
+              776,
+              483
+            ],
+            [
+              932,
+              483
+            ],
+            [
+              932,
+              588
+            ],
+            [
+              776,
+              588
+            ]
+          ],
+          "at": [
+            855,
+            540
+          ],
+          "legacy_review_label": "Digital Learning Studio",
+          "official_name": "Digital Learning Studio",
+          "official_plan_name": "DIGITAL LEARNING LAB",
+          "name": "Digital Learning Studio",
+          "short_label": "Digital Learning Studio",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "Digital Learning Studio",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "Digital Learning Studio",
+            "DIGITAL LEARNING LAB"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              37.8595,
+              5.9148
+            ],
+            [
+              46.1152,
+              5.9148
+            ],
+            [
+              46.1152,
+              0.3624
+            ],
+            [
+              37.8595,
+              0.3624
+            ]
+          ],
+          "label_m": [
+            42.0403,
+            2.9007
+          ],
+          "centroid_m": [
+            41.9874,
+            3.1386
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L23",
+          "room_name": "Digital Learning Studio",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L24",
+          "label": "通行楼梯（图纸未标房间名）",
+          "type": "stair",
+          "points": [
+            [
+              249,
+              143
+            ],
+            [
+              290,
+              139
+            ],
+            [
+              293,
+              167
+            ],
+            [
+              270,
+              177
+            ],
+            [
+              270,
+              294
+            ],
+            [
+              249,
+              294
+            ]
+          ],
+          "at": [
+            260,
+            233
+          ],
+          "legacy_review_label": "通行楼梯（图纸未标房间名）",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行楼梯（图纸未标房间名）",
+          "short_label": "通行楼梯（图纸未标房间名）",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行楼梯（图纸未标房间名）"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              9.97,
+              23.8938
+            ],
+            [
+              12.1398,
+              24.1053
+            ],
+            [
+              12.2985,
+              22.6247
+            ],
+            [
+              11.0813,
+              22.0959
+            ],
+            [
+              11.0813,
+              15.909
+            ],
+            [
+              9.97,
+              15.909
+            ]
+          ],
+          "label_m": [
+            10.5521,
+            19.1346
+          ],
+          "centroid_m": [
+            10.7247,
+            20.5114
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L25",
+          "label": "ST2",
+          "type": "stair",
+          "points": [
+            [
+              717,
+              361
+            ],
+            [
+              770,
+              361
+            ],
+            [
+              770,
+              464
+            ],
+            [
+              717,
+              464
+            ]
+          ],
+          "at": [
+            743,
+            413
+          ],
+          "legacy_review_label": "ST2",
+          "official_name": "ST2",
+          "official_plan_name": "ST2",
+          "name": "ST2",
+          "short_label": "ST2",
+          "name_status": "official_2023_event_label",
+          "official_event_name_2023": "ST2",
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source_date": "2023-08-30",
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "ST2"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "medium",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              34.7372,
+              12.3661
+            ],
+            [
+              37.542,
+              12.3661
+            ],
+            [
+              37.542,
+              6.9195
+            ],
+            [
+              34.7372,
+              6.9195
+            ]
+          ],
+          "label_m": [
+            36.1131,
+            9.6164
+          ],
+          "centroid_m": [
+            36.1396,
+            9.6428
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": "LGF-L25",
+          "room_name": "ST2",
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L26",
+          "label": "通行区：上侧",
+          "type": "circulation",
+          "points": [
+            [
+              82,
+              291
+            ],
+            [
+              338,
+              291
+            ],
+            [
+              364,
+              320
+            ],
+            [
+              682,
+              320
+            ],
+            [
+              682,
+              345
+            ],
+            [
+              364,
+              345
+            ],
+            [
+              82,
+              331
+            ]
+          ],
+          "at": [
+            568,
+            332
+          ],
+          "legacy_review_label": "通行区：上侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：上侧",
+          "short_label": "通行区：上侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：上侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              1.1321,
+              16.0676
+            ],
+            [
+              14.68,
+              16.0676
+            ],
+            [
+              16.0559,
+              14.5341
+            ],
+            [
+              32.8849,
+              14.5341
+            ],
+            [
+              32.8849,
+              13.2122
+            ],
+            [
+              16.0559,
+              13.2122
+            ],
+            [
+              1.1321,
+              13.9525
+            ]
+          ],
+          "label_m": [
+            26.8519,
+            13.8996
+          ],
+          "centroid_m": [
+            14.7633,
+            14.4426
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L27",
+          "label": "通行区：中西侧",
+          "type": "circulation",
+          "points": [
+            [
+              369,
+              356
+            ],
+            [
+              425,
+              356
+            ],
+            [
+              435,
+              417
+            ],
+            [
+              441,
+              466
+            ],
+            [
+              369,
+              466
+            ]
+          ],
+          "at": [
+            400,
+            436
+          ],
+          "legacy_review_label": "通行区：中西侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：中西侧",
+          "short_label": "通行区：中西侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：中西侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              16.3205,
+              12.6305
+            ],
+            [
+              19.2841,
+              12.6305
+            ],
+            [
+              19.8133,
+              9.4048
+            ],
+            [
+              20.1309,
+              6.8137
+            ],
+            [
+              16.3205,
+              6.8137
+            ]
+          ],
+          "label_m": [
+            17.9611,
+            8.4001
+          ],
+          "centroid_m": [
+            18.0379,
+            9.6011
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L28",
+          "label": "通行区：中东侧",
+          "type": "circulation",
+          "points": [
+            [
+              664,
+              355
+            ],
+            [
+              707,
+              355
+            ],
+            [
+              707,
+              467
+            ],
+            [
+              664,
+              467
+            ]
+          ],
+          "at": [
+            685,
+            411
+          ],
+          "legacy_review_label": "通行区：中东侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：中东侧",
+          "short_label": "通行区：中东侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：中东侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              31.9323,
+              12.6834
+            ],
+            [
+              34.2079,
+              12.6834
+            ],
+            [
+              34.2079,
+              6.7609
+            ],
+            [
+              31.9323,
+              6.7609
+            ]
+          ],
+          "label_m": [
+            33.0437,
+            9.7221
+          ],
+          "centroid_m": [
+            33.0701,
+            9.7221
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        },
+        {
+          "id": "L29",
+          "label": "通行区：下侧",
+          "type": "circulation",
+          "points": [
+            [
+              299,
+              472
+            ],
+            [
+              773,
+              472
+            ],
+            [
+              773,
+              505
+            ],
+            [
+              354,
+              505
+            ],
+            [
+              354,
+              479
+            ],
+            [
+              299,
+              479
+            ]
+          ],
+          "at": [
+            590,
+            489
+          ],
+          "legacy_review_label": "通行区：下侧",
+          "official_name": null,
+          "official_plan_name": null,
+          "name": "通行区：下侧",
+          "short_label": "通行区：下侧",
+          "name_status": "descriptive_unnamed_space",
+          "official_event_name_2023": null,
+          "event_name_source": "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Slide2.jpg",
+          "name_source": null,
+          "name_source_date": null,
+          "name_verification": "official_plan_transcription_not_current_site_verified",
+          "aliases": [
+            "通行区：下侧"
+          ],
+          "boundary_method": "manual_raster_trace",
+          "boundary_confidence": "low",
+          "boundary_needs_review": true,
+          "points_m": [
+            [
+              12.6161,
+              6.4965
+            ],
+            [
+              37.7007,
+              6.4965
+            ],
+            [
+              37.7007,
+              4.7514
+            ],
+            [
+              15.5267,
+              4.7514
+            ],
+            [
+              15.5267,
+              6.1263
+            ],
+            [
+              12.6161,
+              6.1263
+            ]
+          ],
+          "label_m": [
+            28.0161,
+            5.5975
+          ],
+          "centroid_m": [
+            26.274,
+            5.6426
+          ],
+          "partition_status": "2020_plan_trace_current_layout_unverified",
+          "layout_review": "needs_site_confirmation",
+          "room_id": null,
+          "room_name": null,
+          "is_historical_subregion": false
+        }
+      ],
+      "footprint_m": [
+        [
+          0.1796,
+          24.6341
+        ],
+        [
+          46.4328,
+          24.6341
+        ],
+        [
+          46.4328,
+          0.2567
+        ],
+        [
+          0.1796,
+          0.2567
+        ],
+        [
+          0.1796,
+          9.775
+        ],
+        [
+          1.3967,
+          9.775
+        ],
+        [
+          1.3967,
+          15.8032
+        ],
+        [
+          0.1796,
+          15.8032
+        ]
+      ],
+      "calibration_version": "official-axis-mm-2026-10-12-v1",
+      "names_source": "Official 2020-path safety raster; compared with 2023-08-30 official event map; current site names need confirmation."
+    }
+  ],
+  "metric_calibration": "map-calibration.json"
+}
